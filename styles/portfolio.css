@@ -171,3 +171,37 @@ main section{
     border-radius: 5px;
 
 }
+.skill-discription{
+    font-size: 16px;
+    font-weight: 400px;
+    color: #757575;
+}
+.resume-comtainer{
+    display: flex;
+    gap: 24px;
+    justify-content: space-around;
+}
+.experience-title{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700px;
+}
+.experience-sub-title{
+    color:#757575;
+    font-size:20px;
+    font-weight: 600px;
+    /* margin: 0 auto; */
+}
+.experience-discription{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400px;
+
+}
+.resume-col-title{
+    font-size: 30px;
+    font-weight: 700px;
+}
+.resume-button-CV{
+    margin-top: 50px;
+}
