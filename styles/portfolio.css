@@ -205,3 +205,36 @@ main section{
 .resume-button-CV{
     margin-top: 50px;
 }
+.footer-background{
+    background-color: #FFF8F3;
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+}
+.footer-discription{
+    color:#474747;
+    font-weight:400px;
+    font-size: 16px;
+}
+footer{
+    padding: 130px 230px;
+
+}
+.footer-col{
+    width: 50%;
+}
+footer input[type="text"],footer input[type="email"],footer textarea{
+    height: 54px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400px;
+    border: none;
+
+}
